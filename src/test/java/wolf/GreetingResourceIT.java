@@ -1,4 +1,4 @@
-package diva;
+package wolf;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
