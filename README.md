@@ -1,3 +1,6 @@
+##Project based on the video 
+https://www.youtube.com/watch?v=ePxU2Pn0n64
+
 # the-wolf-of-quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
